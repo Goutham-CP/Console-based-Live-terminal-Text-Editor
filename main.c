@@ -42,7 +42,7 @@
  *      - Ctrl + Z        : Undo last operation.
  *      - Ctrl + R        : Redo last undone operation.
  *      - Arrow Keys      : Move cursor left, right, up, and down.
- *      - Esc Key         : Exit editor safely
+ *      - Esc + any Key   : Exit editor safely
  *      - Ctrl + B        : Cancel cut/copy selection.
  *                          • Used when user mistakenly presses Ctrl+C or Ctrl+X (first press).
  *                          • Cancels the pending selection before the second press executes copy/cut.

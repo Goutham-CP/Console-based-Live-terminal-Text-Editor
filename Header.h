@@ -68,7 +68,7 @@ extern Node *copyHead;
 extern Node *copyTail;
 extern UndoAction *UndoHead;
 extern UndoAction *RedoHead;
-extern int copyActive;
+extern char copyActive;
 extern int PastePos;
 extern char rec;
 extern int tot;
